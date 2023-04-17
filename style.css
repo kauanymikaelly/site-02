@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+
+.img-cabeçalho{
+    height: 400px;
+}
+.cabeçalho{
+    display: flex;
+}
