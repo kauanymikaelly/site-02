@@ -8,3 +8,6 @@ body{
 .cabeçalho{
     display: flex;
 }
+.principal{
+    background-image: linear-gradient(rgb(77, 76, 76) ,pink);
+}
