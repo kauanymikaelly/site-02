@@ -10,4 +10,17 @@ body{
 }
 .principal{
     background-image: linear-gradient(rgb(77, 76, 76) ,pink);
+    display: flex;
+    justify-content: center
+    align-items:center
+}
+.imagem-principal{
+    width: 435px;
+}
+
+.div-principal{
+    width: 55%;
+}
+.paragrafo{
+    text-align: justify;
 }
