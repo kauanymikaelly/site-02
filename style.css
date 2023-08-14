@@ -11,8 +11,8 @@ body{
 .principal{
     background-image: linear-gradient(rgb(77, 76, 76) ,pink);
     display: flex;
-    justify-content: center
-    align-items:center
+    justify-content: center;
+    align-items:center;
 }
 .imagem-principal{
     width: 435px;
